@@ -54,7 +54,7 @@ class Zend_Markup
     /**
      * Disable instantiation of Zend_Markup
      */
-    private function __construct() { }
+    private function __construct() 
 
     /**
      * Get the parser loader
